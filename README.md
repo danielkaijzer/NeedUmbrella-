@@ -19,5 +19,6 @@
 3. **Optional: Change the City**:
    If you don't live in New York City, you can change the city variable in the script from 'New York' to your city.
 
-4. **Using the Script**:
-   The app will ask you until what time you will be out for. Based on the current weather forecast, it will tell you whether you need to bring an umbrella.
+4. **Running the Script**:
+   The app will prompt you to enter the time until which you will be out. Based on the current weather forecast, it will tell you whether you need to bring an umbrella.
+
