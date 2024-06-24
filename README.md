@@ -1,5 +1,7 @@
 # How to Use "Do I Need an Umbrella?"
 
+An app that checks if you need to bring an umbrella before you go outside.
+
 1. **Install the 'requests' Module**:
    Make sure you have the 'requests' module installed. If not, you can install it using pip or conda:
 
